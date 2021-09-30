@@ -1,6 +1,6 @@
 # Welcome Everyone!
 
-## First of all, thanks @tanaypratap sir and neoG.camp for making it possible. I made my own `Component Library`.
+### First of all, thanks @tanaypratap sir and neoG.camp for making it possible. I made my own `Component Library`.
 
 
 
