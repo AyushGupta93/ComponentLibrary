@@ -8,5 +8,5 @@
 
 `My Portfolio Website` : https://ayushgupta-portfolio.netlify.app/
 
-<p style="margin:1.5rem 0; font-size:medium">You are free to create own version of it. Maybe, you can make your portfolio to showcase your all projects.Now, use your imagination and make whatever you want like. </p>
+<p style="margin:1.5rem 0; font-size:medium">You are free to create own version of it. Maybe, you can make your portfolio to showcase your all projects.Now, use your imagination and make whatever you like. </p>
 
